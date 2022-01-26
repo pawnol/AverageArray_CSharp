@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\OneDrive - East Troy Community School District (1)\Documents\C#\2021-2022\Unit_6_Arrays\Day_3\Programs\Average\bin\Debug\Average.exe.config
+C:\Users\Nolan Pawelski\OneDrive - East Troy Community School District (1)\Documents\C#\2021-2022\Unit_6_Arrays\Day_3\Programs\Average\bin\Debug\Average.exe
+C:\Users\Nolan Pawelski\OneDrive - East Troy Community School District (1)\Documents\C#\2021-2022\Unit_6_Arrays\Day_3\Programs\Average\bin\Debug\Average.pdb
+C:\Users\Nolan Pawelski\OneDrive - East Troy Community School District (1)\Documents\C#\2021-2022\Unit_6_Arrays\Day_3\Programs\Average\obj\Debug\AverageArray.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\OneDrive - East Troy Community School District (1)\Documents\C#\2021-2022\Unit_6_Arrays\Day_3\Programs\Average\obj\Debug\AverageArray.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\OneDrive - East Troy Community School District (1)\Documents\C#\2021-2022\Unit_6_Arrays\Day_3\Programs\Average\obj\Debug\Average.exe
+C:\Users\Nolan Pawelski\OneDrive - East Troy Community School District (1)\Documents\C#\2021-2022\Unit_6_Arrays\Day_3\Programs\Average\obj\Debug\Average.pdb
